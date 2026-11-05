@@ -1,0 +1,8 @@
+Application Opened
+Waited for 3 seconds
+Login completed
+Waited for 3 seconds
+New Employee added
+Waited for 3 seconds
+Logout completed
+Waited for 3 seconds
