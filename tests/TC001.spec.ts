@@ -6,4 +6,5 @@ test('@Smoke_TC001 - Login and Logout', async ({ page }) => {
     await obj.openApplication();
     await obj.login();
     await obj.logout();
+    console.log("Eexecution Completed")
 });
